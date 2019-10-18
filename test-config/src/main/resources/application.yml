@@ -8,7 +8,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/Ferctiy/ConfigServer/test-config
+          uri: https://github.com/Ferctiy/ConfigServer.git
           search-paths: config-repo
           username: 992611060@qq.com
           password: lpg992611060
